@@ -2,9 +2,7 @@
 
 ## Status
 
-**Supported**  Although not part of the main Ares code release, this is a supported plugin.  [Report](https://aresmush.com/feedback) any problems you encounter.
-
-Designed for AresMUSH 1.0.
+**DEPRECATED** This plugin was designed for AresMUSH 1.0 and is no longer being maintained. You may like the [OpenWeather Plugin](https://github.com/Mudpuppy12/ares-openweather-plugin) instead.
 
 ## Overview
 
